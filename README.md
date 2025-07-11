@@ -19,7 +19,7 @@ Each algorithm is implemented in a clean and beginner-friendly way using basic J
 ├── InsertionSort.java    // Insertion Sort Implementation
 └── SelectionSort.java    // Selection Sort Implementation
 ```
-#✅ Sorting Algorithms Covered
+## ✅ Sorting Algorithms Covered
 1. Bubble Sort
 Compares adjacent elements and swaps them if they’re in the wrong order.
 
